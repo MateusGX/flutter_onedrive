@@ -32,7 +32,7 @@ class OneDrive {
     this.state = "OneDriveState",
     ITokenManager? tokenManager,
   }) {
-    redirectURL = "$callbackSchema://auth";
+    redirectURL = "$callbackSchema";
     _tokenManager = tokenManager ??
         DefaultTokenManager(
           tokenEndpoint: tokenEndpoint,
