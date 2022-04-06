@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_onedrive/flutter_onedrive.dart';
+import 'package:fixed_flutter_onedrive/fixed_flutter_onedrive.dart';
 
 void main() {}
 

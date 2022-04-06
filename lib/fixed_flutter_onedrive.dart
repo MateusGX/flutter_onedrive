@@ -1,4 +1,4 @@
-library flutter_onedrive;
+library fixed_flutter_onedrive;
 
 import 'dart:convert';
 import 'dart:typed_data';

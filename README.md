@@ -12,11 +12,11 @@ Read below documents before you start using this library:
 ## Getting started
 
 ```dart
-flutter public add flutter_onedrive
+flutter public add fixed_flutter_onedrive
 ```
 
 ```dart
-import 'package:flutter_onedrive/flutter_onedrive.dart';
+import 'package:fixed_flutter_onedrive/fixed_flutter_onedrive.dart';
 ```
 
 ## Usage
